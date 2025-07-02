@@ -1,2 +1,7 @@
 Requirement: Python
 tkinter 
+streamlit
+google-generativeai
+python-dotenv
+pillow
+datetime
